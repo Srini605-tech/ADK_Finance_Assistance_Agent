@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ADK local session data
+.adk/
+
+# macOS
+.DS_Store
